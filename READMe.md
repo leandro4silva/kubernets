@@ -23,6 +23,7 @@
 
 - Horizontal
     - HPA: O Horizontal Pod Autoscaler (HPA) ajusta automaticamente a quantidade de réplicas de pods com base no uso de CPU, memória ou métricas personalizadas.
-    ![alt text](image.png)
+    ![alt text](image1.png)
 - Vertical
     - VPA: O Vertical Pod Autoscaler (VPA) ajusta automaticamente os recursos (CPU e memória) solicitados pelos containers, sem alterar o número de pods.
+     ![alt text](image2.png)
